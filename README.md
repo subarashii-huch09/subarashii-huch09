@@ -2,7 +2,7 @@
 
 
 <h1 align="center" > Hello World 👋, I'm subarashii-huch09 </h1>
-
+<div align="center"><img src="https://github.com/subarashii-huch09/subarashii-huch09/raw/main/159027.gif">
 <br>
 
 <h3 align="center">My Tech Stacks & Tools </h3>
