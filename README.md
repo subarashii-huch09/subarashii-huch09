@@ -43,15 +43,8 @@
 <summary>Click for GitHub Stats</summary>
 <p align="center">
   <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarashii-huch09&layout=compact&hide=css,html&theme=vision-friendly-dark">
- <img alt ="Github Stats" src="https://github-readme-stats.vercel.app/api?username=subarashii-huch09&count_private=true&show_icons=true&theme=vision-friendly-dark"> 
 </p>
 </details>
-
-
-<footer align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=subarashii-huch09.subarashii-huch09">
-  
-</footer>
 
 
 
