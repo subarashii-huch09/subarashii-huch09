@@ -5,6 +5,7 @@
 <p> 🚀 I'm Chingwen, currently learning web development. </p>
 <p> ⭐️ I'm interested in travelling, cycling, and expanding my coding knowledge. </p>
 <p> 💊 When the IT side of the brain is not being used, I work as a locum pharmacist in the community </p>
+<p> 📤 https://www.linkedin.com/in/chingwenhu-nz </p>
 <br>
 
 <h3 align="center">My Tech Stack & Tools </h3>
