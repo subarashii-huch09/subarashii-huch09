@@ -3,9 +3,9 @@
 
 # Hi, I'm Chingwen 👋
 
-💊 Pharmacist by profession
+💊 Pharmacist at work
 
-💻 Developer by passion
+💻 Developer for fun
 
 🏥 Interested in where healthcare and technology meet
 
